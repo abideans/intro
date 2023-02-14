@@ -4,6 +4,7 @@ body {
 	margin: 0 auto;
 }
 .homePage {
+	font: 100%/1.4 Marker Felt, fantasy;
 	background: #32CD32;
 }
 .container {
