@@ -5,7 +5,7 @@ body {
 }
 .homePage {
 	font: 100%/1.4 Marker Felt, fantasy;
-     background-color: ##F097FF;
+     background-color: #F097FF;
      margin: 0;
      padding: 0;
      color: #000;
@@ -16,7 +16,7 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background: #9119FF;
+	background: #807F26;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -26,7 +26,7 @@ body {
 	
 }
 .nav {
-	background: #F6FF0D;
+	background: #CCCC00;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -35,14 +35,14 @@ body {
 	text-align: center;
 }
 .content {
-	background: #FFAFBE;
+	background: #FFFF4D;
 	margin: 0px;
 	float: left;
 	width: 100%;
 	text-align: center;
 }
 .footer {
-	background: #FF6419;
+	background: #FFFF00;
 	margin: 0px;
 	float: left;
 	width: 100%;
