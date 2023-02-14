@@ -5,8 +5,12 @@ body {
 }
 .homePage {
 	font: 100%/1.4 Marker Felt, fantasy;
-	background: #32CD32;
+     background-color: #RRGGBB;
+     margin: 0;
+     padding: 0;
+     color: #000;
 }
+
 .container {
 	width: 960px;
 	margin: 0 auto;
